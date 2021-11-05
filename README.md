@@ -2,8 +2,6 @@
 
 My name's Michal and I'm beginner in programming and webdev. I look forward to take on some new challenges and trying to be as much communicative as I can be.
 
-🌱 Currently learning: ES6/React
-
 <!--
 **michal-cieslik/michal-cieslik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🌱 Currently learning: ES6/React
 -->
