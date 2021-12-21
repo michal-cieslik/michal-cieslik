@@ -1,6 +1,8 @@
 ### Hello! 👋 
 
-My name's Michal and I'm beginner in programming and webdev. I look forward to take on some new challenges and trying to be as much communicative as I can be.
+Currently interested in front‑end and DevOps. Super nerd who loves hardware, Linux and macOS and enjoys to customize all of the development
+environment. Interested in devising a better problem‑solving method for challenging tasks, and learning new technologies and tools if the need
+arises. I look forward to take on some new challenges and trying to be as much communicative as I can be.
 
 <!--
 **michal-cieslik/michal-cieslik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
